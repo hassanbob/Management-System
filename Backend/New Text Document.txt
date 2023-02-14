@@ -1,0 +1,24 @@
+1 - npm init
+ لتحضير ملفات الjson      
+
+2- npm install --save express mysql dotenv cors
+express : framework  for backend 
+mysql  :  the database
+dotenv  : env file pakage to install a Global variable and use it a diefrant palces
+cors     :    to connect with  the backend from front end to backend allow us to connect cross origin we actually on it to resources    ---   browser security feature that restricts cross-origin HTTP requests that are initiated from scripts running in the browser
+
+3 - npm i --save-dev nodemon
+nodemon : it's server => if there's any cahnges on files on project it will automaticly restart  the server 
+
+
+4 - create name database.......;
+5 - use namedatabase;
+6 - create tables database..
+
+7 - npm install --save jsonwebtoken nodemailer
+jsonwebtoken :  to use api authyintaction  ----- 
+  nodemailer :  to send mailes
+
+  8 - node to use node.js
+
+  9 - to make encode   : require('crypto').randomBytes(64).toString('hex')
